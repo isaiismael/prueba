@@ -2,6 +2,10 @@
 const CACHE_NAME = 'v1_cache_programador_fitness',
 urlsToCache = [
     './',
+    './css/estilos.css',
+    'https://kit.fontawesome.com/03a89292db.js',
+    'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css',
+    'https://unpkg.com/vue@next'
     
 ]
 
